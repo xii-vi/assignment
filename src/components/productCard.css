@@ -1,0 +1,12 @@
+.product-container{
+    text-align: center;
+}
+.product-container>img{
+    max-inline-size: 100%;
+    block-size: auto;
+    aspect-ratio: 1/1;
+}
+.product-container>p{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
